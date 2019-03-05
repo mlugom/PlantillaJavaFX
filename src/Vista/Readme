@@ -1,0 +1,6 @@
+Hay una clase por cada vista
+Cada vista tiene su controlador
+El controlador apunta a su vista y al modelo de datos
+El modelo puede ir en otro paquete
+El singleton se utiliza cuando hay variables globales a las que se quiere acceder desde cualquier parte
+El stage no se puede perder porque se muere la aplicacion, por eso se utiliza un singleton
